@@ -12,6 +12,10 @@
 
 ###
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/WoopsGroup/WoopsGroup/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 <div data-importer="socials" align="center">
   <a href="https://www.youtube.com/@woopsscript" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -21,14 +25,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WoopsGroup/WoopsGroup/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WoopsGroup/WoopsGroup/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WoopsGroup/WoopsGroup/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
 
 ###
 
@@ -56,6 +52,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="figma logo"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+<a href="https://open.spotify.com/user/nxmyo84pxms2sx06kddbq8yj2">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=nxmyo84pxms2sx06kddbq8yj2&amp;theme=spotify" alt="Spotify recently played" width="400" />
+</a>
 </div>
 
 ###
