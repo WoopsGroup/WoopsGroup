@@ -56,14 +56,6 @@
 
 ###
 
-<div data-importer="music" align="center">
-<a href="https://open.spotify.com/user/nxmyo84pxms2sx06kddbq8yj2">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=nxmyo84pxms2sx06kddbq8yj2&amp;theme=spotify" alt="Spotify recently played" width="400" />
-</a>
-</div>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="190" src="https://i.imgur.com/E1SFt3M.png"  />
 </div>
